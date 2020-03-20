@@ -1,5 +1,6 @@
 django
 graphene-django
 django-graphql-jwt
+psycopg2
 django-cors-headers
 autopep8
